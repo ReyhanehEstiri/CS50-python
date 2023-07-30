@@ -23,10 +23,10 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [Nutrition Facts](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%202/nutrition.py)
 
 ### [Week 3](/Week%203/) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
-- [Fuel Gauge](/Week%203/fuel/)
-- [Felipe's Taqueria](/Week%203/taqueria/)
-- [Grocery List](/Week%203/grocery/)
-- [Outdated](/Week%203/outdated/)
+- [Fuel Gauge](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%203/fuel.py)
+- [Felipe's Taqueria](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%203/taqueria.py)
+- [Grocery List](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%203/grocery.py)
+- [Outdated](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%203/outdated.py)
 
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
 - [Emojize](/Week%204/emojize/)
