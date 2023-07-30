@@ -9,11 +9,11 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [Tip Calculator](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%200/tip.py)
 
 ### [Week 1](/Week%201/) - [Conditionals](https://cs50.harvard.edu/python/2022/weeks/1/)
-- [Deep Thought](/Week%201/deep/)
-- [Home Federal Savings Bank](/Week%201/bank/)
-- [File Extensions](/Week%201/extensions/)
-- [Math Interpreter](/Week%201/interpreter/)
-- [Meal Time](/Week%201/meal/)
+- [Deep Thought](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%201/deep.py)
+- [Home Federal Savings Bank](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%201/bank.py)
+- [File Extensions](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%201/extensions.py)
+- [Math Interpreter](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%201/interpreter.py)
+- [Meal Time](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%201/meal.py)
 
 ### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
 - [camelCase](/Week%202/camel/)
