@@ -2,8 +2,8 @@
 This repository contains my CS50p 2022 Problem set solutions.
 
 ### [Week 0](/Week%200/) - [Functions, Variables](https://cs50.harvard.edu/python/2022/weeks/0/)
-- [Indoor Voice](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%200/tip.py)
-- [Playback Speed](/Week%200/playback/)
+- [Indoor Voice](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%200/indoor.py)
+- [Playback Speed](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%200/playback.py)
 - [Making Faces](/Week%200/faces/)
 - [Einstein](/Week%200/einstein/)
 - [Tip Calculator](/Week%200/tip/)
