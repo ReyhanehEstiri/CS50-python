@@ -1,7 +1,7 @@
 # CS50-python
 This repository contains my CS50p 2022 Problem set solutions.
 
-[- Week 0: Functions](https://cs50.harvard.edu/python/2022/psets/0/)
+[- Week 0: Functions](https://cs50.harvard.edu/python/2022/psets/0/)\n
 Problem Set 0
 [- Week 1: Conditionals](https://cs50.harvard.edu/python/2022/psets/1/)
 Problem Set 1
