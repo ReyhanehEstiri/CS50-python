@@ -16,11 +16,11 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [Meal Time](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%201/meal.py)
 
 ### [Week 2](/Week%202/) - [Loops](https://cs50.harvard.edu/python/2022/weeks/2/)
-- [camelCase](/Week%202/camel/)
-- [Coke Machine](/Week%202/coke/)
-- [Just setting up my twttr](/Week%202/twttr/)
-- [Vanity Plates](/Week%202/plates/)
-- [Nutrition Facts](/Week%202/nutrition/)
+- [camelCase](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%202/camel.py)
+- [Coke Machine](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%202/coke.py)
+- [Just setting up my twttr](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%202/twttr.py)
+- [Vanity Plates](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%202/plates.py)
+- [Nutrition Facts](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%202/nutrition.py)
 
 ### [Week 3](/Week%203/) - [Exceptions](https://cs50.harvard.edu/python/2022/weeks/3/)
 - [Fuel Gauge](/Week%203/fuel/)
