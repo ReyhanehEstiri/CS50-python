@@ -29,7 +29,7 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [Outdated](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%203/outdated.py)
 
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
-- [Emojize]((https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/emojize.py))
+- [Emojize](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/emojize.py)
 - [Frank, Ian and Glen's Letters](/Week%204/figlet/)
 - [Adieu, Adieu](/Week%204/adieu/)
 - [Guessing Game](/Week%204/game/)
