@@ -30,11 +30,11 @@ This repository contains my CS50p 2022 Problem set solutions.
 
 ### [Week 4](/Week%204/) - [Libraries](https://cs50.harvard.edu/python/2022/weeks/4/)
 - [Emojize](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/emojize.py)
-- [Frank, Ian and Glen's Letters](/Week%204/figlet/)
-- [Adieu, Adieu](/Week%204/adieu/)
-- [Guessing Game](/Week%204/game/)
-- [Little Professor](/Week%204/professor/)
-- [Bitcoin Price Index](/Week%204/bitcoin/)
+- [Figlet](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/figlet.py)
+- [Adieu, Adieu](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/adieu.py)
+- [Guessing Game](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/game.py)
+- [Little Professor](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/professor.py)
+- [Bitcoin Price Index](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%204/bitcoin.py)
 
 ### [Week 5](/Week%205/) - [Unit Tests](https://cs50.harvard.edu/python/2022/weeks/5/)
 - [Testing my twttr](/Week%205/test_twttr/)
