@@ -43,10 +43,10 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [Refueling](/Week%205/test_fuel/)
 
 ### [Week 6](/Week%206/) - [File I/O](https://cs50.harvard.edu/python/2022/weeks/6/)
-- [Lines of Code](/Week%206/lines/)
-- [Pizza Py](/Week%206/pizza/)
-- [Scourgify](/Week%206/scourgify/)
-- [CS50 P-Shirt](/Week%206/shirt/)
+- [Lines of Code](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%206/lines.py)
+- [Pizza Py](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%206/pizza)
+- [Scourgify](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%206/scourgify)
+- [CS50 P-Shirt](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%206/shirt)
 
 ### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
 - [NUMB3RS](/Week%207/numb3rs/)
