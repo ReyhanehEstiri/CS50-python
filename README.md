@@ -49,11 +49,11 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [CS50 P-Shirt](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%206/shirt)
 
 ### [Week 7](/Week%207/) - [Regular Expressions](https://cs50.harvard.edu/python/2022/weeks/7/)
-- [NUMB3RS](/Week%207/numb3rs/)
-- [Watch on YouTube](/Week%207/watch/)
-- [Working 9 to 5](/Week%207/working/)
-- [Regular, um, Expressions](/Week%207/um/)
-- [Response Validation](/Week%207/response/)
+- [NUMB3RS](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%207/numb3rs)
+- [Watch on YouTube](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%207/watch.py)
+- [Working 9 to 5](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%207/working)
+- [Regular, um, Expressions](https://github.com/ReyhanehEstiri/CS50-python/tree/main/Week%207/um)
+- [Response Validation](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%207/response.py)
 
 ### [Week 8](/Week%208/) - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8)
 - [Seasons of Love](/Week%208/seasons/)
