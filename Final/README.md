@@ -1,6 +1,6 @@
 # Password Generator & Manager
 
-## Video Demo: <https://youtu.be/3DAFDkIb9wk?si=HgrEFBRmRE0Nxqbk>
+
 ## Overview
 
 This Python script is a simple password manager that allows you to securely store and retrieve passwords. It uses encryption to protect the stored passwords and generates random passwords for new services.
