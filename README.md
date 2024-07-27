@@ -56,6 +56,6 @@ This repository contains my CS50p 2022 Problem set solutions.
 - [Response Validation](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%207/response.py)
 
 ### [Week 8](/Week%208/) - [Object-Oriented Programming](https://cs50.harvard.edu/python/2022/weeks/8)
-- [Seasons of Love](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%208/seasons.py/)
-- [Cookie Jar](/Week%208/jar/)
-- [CS50 Shirtificate](/Week%208/shirtificate/)
+- [Seasons of Love](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%208/seasons.py)
+- [Cookie Jar](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%208/jar.py)
+- [CS50 Shirtificate](https://github.com/ReyhanehEstiri/CS50-python/blob/main/Week%208/shirtificate.py)
